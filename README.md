@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 About Me**  
+## 🚀 **About Me**  
 
 - 👨‍🎓 **`Junior Developer`**, **`Higher Vocational Training in Multiplatform`** and **`Web Application Development`** (Advanced Diploma). 
 - 📚 Currently studying: **`Data Analyst`** y **`Data Science + AI`** in  <a href="https://codespaceacademy.com"><img src="https://img.shields.io/badge/CodeSpace_Academy-2EF0B6?style=for-the-badge&logo=google-classroom&logoColor=black&labelColor=2EF0B6&color=222222" alt="CodeSpace Academy" align="top" width="180"></a>
