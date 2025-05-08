@@ -1,16 +1,16 @@
-#  ¡Hola, soy David! 👋 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-forgas-gonzalez) [![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&Color=white)](mailto:davidfogo99@hotmail.com)
+#  Hello, I'm David! 👋 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-forgas-gonzalez) [![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&Color=white)](mailto:davidfogo99@hotmail.com)
 
 ---
 
-## 🚀 **Sobre mí**  
+## 🚀 About Me**  
 
-- 👨‍🎓 **`Junior Developer`**, **`Técnico Superior desarrollo de aplicaciones multiplataformas`** y **`desarrollo de aplicaciones web`**. 
-- 📚 Actualmente estudiando: **`Data Analyst`** y **`Data Science + IA`** en  <a href="https://codespaceacademy.com"><img src="https://img.shields.io/badge/CodeSpace_Academy-2EF0B6?style=for-the-badge&logo=google-classroom&logoColor=black&labelColor=2EF0B6&color=222222" alt="CodeSpace Academy" align="top" width="180"></a>
-- 💡 Me apasiona el mundo tech y quiero encontrar mi camino en el.
+- 👨‍🎓 **`Junior Developer`**, **`Higher Vocational Training in Multiplatform`** and **`Web Application Development`** (Advanced Diploma). 
+- 📚 Currently studying: **`Data Analyst`** y **`Data Science + AI`** in  <a href="https://codespaceacademy.com"><img src="https://img.shields.io/badge/CodeSpace_Academy-2EF0B6?style=for-the-badge&logo=google-classroom&logoColor=black&labelColor=2EF0B6&color=222222" alt="CodeSpace Academy" align="top" width="180"></a>
+- 💡 I'm passionate about the tech world and I'm looking to find my path in it.
 
 
 
-## 🛠 **Tecnologías y Herramientas**  
+## 🛠 **Technologies and Tools**  
 
 <div align="center">
  
@@ -30,14 +30,14 @@
 
 ---
 
-## 📂 **Proyectos Destacados**  
+## 📂 **Featured Projects**  
 
- ### 💻 **Introducción a Data Science** 
-   - Arrays y operaciones matemáticas avanzadas / leer, explorar y manipular datos / crear, ver y modificar gráficos.
-   - Tecnologías y herramientas: **`Python`**, **`Numpy`**, **`Pandas`**, **`Matplotlib`**, **`Seaborn`**, **`Scikit-Learn`**, **`Visual Studio Code`**. <br>
+ ### 💻 **Introduction to Data Science** 
+   - Arrays and advanced mathematical operations / reading, exploring, and manipulating data / creating, viewing, and editing charts.
+   - Technologies and tools: **`Python`**, **`Numpy`**, **`Pandas`**, **`Matplotlib`**, **`Seaborn`**, **`Scikit-Learn`**, **`Visual Studio Code`**. <br>
   <div align="center">
      
-  [![Source Code](https://img.shields.io/badge/Introducción_a_Data_Science-F5F5F5?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Davidfogo99/Intro-clase.git)
+  [![Source Code](https://img.shields.io/badge/Introduction_to_Data_Science-F5F5F5?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Davidfogo99/Intro-clase.git)
          
   </div>
 
